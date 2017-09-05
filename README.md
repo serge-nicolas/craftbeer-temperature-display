@@ -20,20 +20,12 @@ Can be used to monitor beer fermentation temperature.
 See /docs for libs, PDF and images
 
 ## Installation
-<<<<<<< HEAD
 Built with Atom + PlatformIO.
 
 Install dependancies :
 pio lib install OneWire
 pio lib install U8glib (it will take the id=7)
 
-=======
-Install depencies
-pio lib install OneWire
-pio lib install U8glib (it will take the id=7)
-
-Built with Atom + PlatformIO.
->>>>>>> f3f4d4b450ea5eac83886db6606d8388cf0a1240
 
 ## Platform
 Tested on Leonardo.
